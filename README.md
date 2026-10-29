@@ -1,5 +1,4 @@
-# 💫 About Me:
-**I'm currently working on:**  <br>Building my skills in software development, Python, financial data analysis, and exploring projects that combine programming, finance, and technology.<br><br>**I'm looking to collaborate on:**  <br>FinTech projects, algorithmic trading systems, quantitative finance tools, open-source projects, financial data analysis, and innovative software solutions.<br><br>**I'm looking for help with:**  <br>Improving my coding skills, writing clean and efficient code, learning software engineering best practices, understanding financial markets, and applying algorithms and data analysis to real-world financial problems.<br><br>**I'm currently learning:**  <br>Python, data structures and algorithms, Git and GitHub, financial markets, quantitative finance, statistics, data analysis, financial modeling, and algorithmic trading.<br><br>
+Aspiring Software Developer with a strong interest in Finance, FinTech, and Quantitative Finance. Focused on developing programming skills, understanding financial markets, and building practical projects that combine technology and finance. Committed to continuous learning and long-term growth.
 
 
 # 💻 Tech Stack:
